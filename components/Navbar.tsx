@@ -11,8 +11,6 @@ export function Navbar () {
           <a href="https://www.radiofavorita.cl" target="_blank" rel="noopener noreferrer">
             RADIO FAVORITA FM
           </a>
-        </div>
-      </Container>
     </div>
   )
 }
