@@ -8,4 +8,4 @@ export const VALID_ALPHABET_LENGTH = 8
 
 export const HOME_URL = process.env.NODE_ENV === 'development'
   ? 'http://localhost:3000'
-  : 'https://reburn-link.vercel.app'
+  : 'https://favorita.info'
