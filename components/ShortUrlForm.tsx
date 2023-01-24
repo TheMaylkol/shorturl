@@ -71,16 +71,16 @@ export function ShortUrlForm () {
       <div className="flex items-end">
         <Input
           id="url"
-          placeholder="https://www.example.com"
-          label="Your URL"
-          info={isCopying ? 'Copied on clipboard' : null}
+          placeholder="https://www.radiofavorita.cl"
+          label="Pega aqui tu enlace"
+          info={isCopying ? 'Enlance Copiado!' : null}
           after={isCopying ? Check : Copy}
           register={register}
           onClickAfter={handleCopy}
           error={errors.url}
         />
         <Button type="submit">
-          Shorten URL
+          Acortar URL
         </Button>
       </div>
       <div className="mt-2 h-6">
