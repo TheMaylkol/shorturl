@@ -8,19 +8,19 @@ export function Navbar () {
     <div className="z-10 sticky top-0 backdrop-blur-sm bg-neutral-900/90 border-b border-neutral-800">
       <Container className="h-16 flex items-center">
         <Text priority="medium">
-          <a href="https://www.radiofavorita.cl" target="_blank" rel="noopener noreferrer">
-            RADIO FAVORITA FM
+          <a href="https://www.reburn.dev" target="_blank" rel="noopener noreferrer">
+            Reburn Shortener
           </a>
         </Text>
         <div className="flex-1"></div>
         <div className="flex items-center space-x-6">
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a href="https://ko-fi.com/reburn" target="_blank" rel="noopener noreferrer">
             <Coffee />
           </a>
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.twitter.com/reburn_dev" target="_blank" rel="noopener noreferrer">
             <Twitter />
           </a>
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.github.com/JGMateran" target="_blank" rel="noopener noreferrer">
             <GitHub />
           </a>
         </div>
