@@ -12,6 +12,18 @@ export function Navbar () {
             RADIO FAVORITA FM
           </a>
         </Text>
+        <div className="flex-1"></div>
+        <div className="flex items-center space-x-6">
+          <a href="#" target="_blank" rel="noopener noreferrer">
+            <Coffee />
+          </a>
+          <a href="#" target="_blank" rel="noopener noreferrer">
+            <Twitter />
+          </a>
+          <a href="#" target="_blank" rel="noopener noreferrer">
+            <GitHub />
+          </a>
+        </div>
       </Container>
     </div>
   )
