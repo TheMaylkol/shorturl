@@ -8,11 +8,10 @@ export function Navbar () {
     <div className="z-10 sticky top-0 backdrop-blur-sm bg-neutral-900/90 border-b border-neutral-800">
       <Container className="h-16 flex items-center">
         <Text priority="medium">
-          <a href="https://www.reburn.dev" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.radiofavorita.cl" target="_blank" rel="noopener noreferrer">
             RADIO FAVORITA FM
           </a>
         </Text>
-        </div>
       </Container>
     </div>
   )
