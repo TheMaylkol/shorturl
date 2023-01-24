@@ -12,17 +12,6 @@ export function Navbar () {
             RADIO FAVORITA FM
           </a>
         </Text>
-        <div className="flex-1"></div>
-        <div className="flex items-center space-x-6">
-          <a href="https://ko-fi.com/reburn" target="_blank" rel="noopener noreferrer">
-            <Coffee />
-          </a>
-          <a href="https://www.twitter.com/reburn_dev" target="_blank" rel="noopener noreferrer">
-            <Twitter />
-          </a>
-          <a href="https://www.github.com/JGMateran" target="_blank" rel="noopener noreferrer">
-            <GitHub />
-          </a>
         </div>
       </Container>
     </div>
