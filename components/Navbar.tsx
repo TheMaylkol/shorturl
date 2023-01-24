@@ -9,7 +9,7 @@ export function Navbar () {
       <Container className="h-16 flex items-center">
         <Text priority="medium">
           <a href="https://www.reburn.dev" target="_blank" rel="noopener noreferrer">
-            Reburn Shortener
+            RADIO FAVORITA FM
           </a>
         </Text>
         <div className="flex-1"></div>
