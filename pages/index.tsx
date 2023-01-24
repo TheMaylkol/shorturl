@@ -15,10 +15,10 @@ const Home: NextPage = () => {
 
       <Container className="py-14 min-h-[calc(100vh-130px)]" size="small">
         <h2 className="font-bold text-4xl mb-4 text-center">
-          The last URL Shortener you will need
+          Acortador URL Radio Favorita FM
         </h2>
         <Text priority="medium" className="text-center">
-          We are an open-source alternative to the link shorteners on the market. We are known for having all our code free and open-source for anyone who wants to see it for security, learn from it or make their own shortened based on ours.
+          Acortador de uso libre.
         </Text>
 
         <ShortUrlForm />
