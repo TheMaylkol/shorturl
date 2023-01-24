@@ -15,7 +15,7 @@ const Home: NextPage = () => {
 
       <Container className="py-14 min-h-[calc(100vh-130px)]" size="small">
         <h2 className="font-bold text-4xl mb-4 text-center">
-          Acortador URL Radio Favorita FM
+          Acortador URL RADIO FAVORITA FM
         </h2>
         <Text priority="medium" className="text-center">
           Acortador de uso libre.
